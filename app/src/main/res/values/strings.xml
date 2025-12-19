@@ -1,3 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Nom de l'application -->
     <string name="app_name">GameCollection</string>
+
+    <!-- Navigation -->
+    <string name="nav_collection">Collection</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_parametres">Paramètres</string>
+
+    <!-- Écran Collection -->
+    <string name="titre_collection">Ma Collection</string>
+    <string name="rechercher_jeu">Rechercher un jeu…</string>
+    <string name="filtre_toutes">Toutes</string>
+    <string name="jeux_dans_collection">%d jeux dans la collection</string>
+    <string name="aucun_jeu">Aucun jeu dans la collection</string>
+    <string name="ajouter_jeu">Ajouter un jeu</string>
+
+    <!-- Écran Détails -->
+    <string name="titre_details">Détails</string>
+    <string name="plateforme">Plateforme</string>
+    <string name="genre">Genre</string>
+    <string name="annee">Année</string>
+    <string name="statut">Statut</string>
+    <string name="note_personnelle">Note personnelle</string>
+    <string name="temps_de_jeu">Temps de jeu</string>
+    <string name="commentaires">Commentaires</string>
+    <string name="modifier">Modifier</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+
+    <!-- Écran Statistiques -->
+    <string name="titre_statistiques">Statistiques</string>
+    <string name="total_jeux">Total</string>
+    <string name="note_moyenne">Note moy.</string>
+    <string name="temps_total">Temps</string>
+    <string name="repartition_statut">Répartition par statut</string>
+    <string name="jeux_par_plateforme">Jeux par plateforme</string>
+
+    <!-- Écran Paramètres -->
+    <string name="titre_parametres">Paramètres</string>
+    <string name="apparence">APPARENCE</string>
+    <string name="theme_sombre">Thème sombre</string>
+    <string name="langue">LANGUE</string>
+    <string name="a_propos">À PROPOS</string>
+    <string name="version">Version</string>
+    <string name="developpeur">Développeur</string>
+    <string name="nom_developpeur">Cégep de Drummond - 2025</string>
+
+    <!-- Statuts de jeu -->
+    <string name="statut_a_jouer">À jouer</string>
+    <string name="statut_en_cours">En cours</string>
+    <string name="statut_termine">Terminé</string>
+    <string name="statut_abandonne">Abandonné</string>
+
+    <!-- Plateformes -->
+    <string name="plateforme_ps5">PlayStation 5</string>
+    <string name="plateforme_ps4">PlayStation 4</string>
+    <string name="plateforme_xbox_series">Xbox Series X|S</string>
+    <string name="plateforme_xbox_one">Xbox One</string>
+    <string name="plateforme_switch">Nintendo Switch</string>
+    <string name="plateforme_pc">PC</string>
+    <string name="plateforme_mobile">Mobile</string>
+
+    <!-- Genres -->
+    <string name="genre_action">Action</string>
+    <string name="genre_aventure">Aventure</string>
+    <string name="genre_rpg">RPG</string>
+    <string name="genre_fps">FPS</string>
+    <string name="genre_sport">Sport</string>
+    <string name="genre_course">Course</string>
+    <string name="genre_strategie">Stratégie</string>
+    <string name="genre_simulation">Simulation</string>
+    <string name="genre_horreur">Horreur</string>
+    <string name="genre_puzzle">Puzzle</string>
+    <string name="genre_combat">Combat</string>
+    <string name="genre_plateforme">Plateforme</string>
+    <string name="genre_autre">Autre</string>
 </resources>
